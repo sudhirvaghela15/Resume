@@ -380,7 +380,7 @@
                 <div class="skill-item">
                     <div class="skill-name">
                         <span>UIKit</span>
-                        <span>85%</span>
+                        <span>90%</span>
                     </div>
                     <div class="skill-bar">
                         <div class="skill-level" style="width: 85%;"></div>
@@ -389,7 +389,7 @@
                 <div class="skill-item">
                     <div class="skill-name">
                         <span>SwiftUI</span>
-                        <span>55%</span>
+                        <span>85%</span>
                     </div>
                     <div class="skill-bar">
                         <div class="skill-level" style="width: 75%;"></div>
